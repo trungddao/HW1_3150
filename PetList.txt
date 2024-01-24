@@ -1,0 +1,6 @@
+Dog;Buddy;John;3;Golden Retriever;Golden
+Dog;Luna;Alice;2;German Shepherd;Brown
+Cat;Whiskers;Emily;4;Short;Declawed;Gray
+Cat;Mittens;David;5;Long;Clawed;Black
+OtherPet;Slinky;Sarah;1;Snake;True
+OtherPet;Tweety;Mike;2;Bird;False
